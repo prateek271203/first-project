@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+label{
+    width: 110px;
+}
+button{
+    border-radius: 24px !important;
+    padding-top: 2px !important;
+    padding-bottom: 4px !important;
+}
